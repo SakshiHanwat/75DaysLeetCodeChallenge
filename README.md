@@ -27,4 +27,16 @@
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/SakshiHanwat/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SakshiHanwat/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SakshiHanwat/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/SakshiHanwat/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
