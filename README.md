@@ -13,7 +13,6 @@
 | ------- |
 | [0001-two-sum](https://github.com/SakshiHanwat/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/SakshiHanwat/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
-0394-decode-string) |
 
 ## Sorting
 |  |
